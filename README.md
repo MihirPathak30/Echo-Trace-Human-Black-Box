@@ -4,7 +4,7 @@ Echo Trace is an educational prototype (“Human Black Box”) that demonstrates
 
 ## Author & Ownership
 
-This project was created and owned by **Saksham Jagetiya** as a personal project.  
+This project was created and owned by **Mihir Pathak** as a personal project.  
 All design decisions, feature planning, and implementation direction were defined by the author.
 
 ## Features
